@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parmicciano
 - 👀 I’m interested in programmation and aerospace
-- 🌱 I’m currently learning golang and javascript
+- 🌱 I’m currently learning golang 
 
 - Main languages : Golang 🚀, python🐍, PHP🐘, JavaScript, bash
 
