@@ -10,7 +10,7 @@
 
 - Os of the server that I've configured : Ubuntu 20.04, Linux (AWS distribution)
 
-- Server configured : Website hosting, databases, email servers, API 
+- Server configured : Website hosting (apache & nginx with LAMP), databases (mainly MySQL), email servers 
 
 - Main languages : Golang, python, PHP, JavaScript, bash
 
