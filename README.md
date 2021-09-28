@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Parmicciano
 - 👀 I’m interested in programmation and aerospace
-- 🌱 I’m currently learning golang and javascripy
+- 🌱 I’m currently learning golang and javascript
 
-- Frameworks : Vuejs, React, tailwind css
+- Frameworks : Vuejs, React, tailwind css, flask, selenium
 
-- Databases: MySQL
+- Databases: MySQL, Mariadb
 
-- Cloud : AWS, Google cloud platform 
+- Cloud : AWS(mainly Ec2, S3 storage), Google cloud platform 
 
 - Os of the server that I've configured : Ubuntu 20.04, Linux (AWS distribution)
 
