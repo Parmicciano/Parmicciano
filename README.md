@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Parmicciano
 - 👀 I’m interested in programmation and aerospace
-- 🌱 I’m currently learning golang python PHP JavaScript 
+- 🌱 I’m currently learning golang and javascripy
 
-- Frameworks : Vuejs, React  
+- Frameworks : Vuejs, React, tailwind css
 
 - Databases: MySQL
 
@@ -13,3 +13,4 @@
 - Server configured : Website hosting, databases, email servers, API 
 
 - Main languages : Golang, python, PHP, JavaScript, bash
+
