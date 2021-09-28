@@ -14,3 +14,5 @@
 
 - Main languages : Golang, python, PHP, JavaScript, bash
 
+- Hardware used : raspberry pi, Arduino
+
