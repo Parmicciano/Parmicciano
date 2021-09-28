@@ -6,9 +6,9 @@
 
 - Databases: MySQL, Mariadb
 
-- Cloud : AWS(mainly Ec2, S3 storage), Google cloud platform 
+- Cloud : AWS(mainly Ec2, S3 storage), Google cloud platform(Google translate API, virtual machines)
 
-- Os of the server that I've configured : Ubuntu 20.04, Linux (AWS distribution)
+- Os of the server that I've configured : Ubuntu 20.04, Linux (AWS distribution), windows
 
 - Server configured : Website hosting (apache & nginx with LAMP), databases (mainly MySQL), email servers 
 
