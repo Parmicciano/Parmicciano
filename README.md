@@ -4,7 +4,7 @@
 
 - Main languages : Golang 🚀, python🐍, PHP🐘, JavaScript, bash
 
-- Frameworks : Vuejs, React, tailwind css, flask, selenium
+- Frameworks : Vuejs, React, tailwind css, flask, selenium, django
 
 - Databases: MySQL, Mariadb
 
