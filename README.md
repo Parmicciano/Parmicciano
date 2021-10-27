@@ -6,7 +6,7 @@
 
 - Frameworks : Vuejs, React, tailwind css, flask, selenium, django
 
-- Databases: MySQL, Mariadb
+- Databases: MySQL, Mariadb, Sqlite
 
 - Cloud : AWS(mainly Ec2, S3 storage), Google cloud platform(Google translate API, virtual machines)
 
