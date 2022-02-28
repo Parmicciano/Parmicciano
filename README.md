@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Parmicciano
 - 👀 I’m interested in programmation and aerospace
-- 🌱 I’m currently learning golang 
 
-- Main languages : Golang 🚀, python🐍, PHP🐘, JavaScript, bash
 
-- Frameworks : Vuejs, React, tailwind css, flask, selenium, django
+- Main languages : Golang 🚀, python🐍, JavaScript, bash, php
 
-- Databases: MySQL, Mariadb, Sqlite
+- Frameworks : Nuxtjs for Vuejs, React, tailwind css, flask, selenium, django
+
+- Databases: Mongo db,MySQL, Mariadb, Sqlite
 
 - Cloud : AWS(mainly Ec2, S3 storage), Google cloud platform(Google translate API, virtual machines)
 
